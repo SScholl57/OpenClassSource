@@ -40,7 +40,11 @@ body {
 
 .cta {
     background: linear-gradient(90deg, #8E86B5, #ACAEED);
+    border-radius: 50px;
     color: white;
 }
 
-
+.paragraphe-a-propos {
+    border-right: 1px solid #A5B4FC;
+    border-bottom: 1px solid #A5B4FC;
+}
