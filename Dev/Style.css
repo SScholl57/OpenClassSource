@@ -48,3 +48,22 @@ body {
     border-right: 1px solid #A5B4FC;
     border-bottom: 1px solid #A5B4FC;
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
+.cta:hover {
+    background: linear-gradient(90deg, #696484, #8788BA);
+    text-decoration: none;
+}
+
+.pied-de-page img:hover {
+    opacity: 0.5;
+
+}
+
+.entete img:hover {
+    opacity: 0.5;
+}
+
