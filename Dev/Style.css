@@ -67,3 +67,7 @@ a:hover {
     opacity: 0.5;
 }
 
+header,
+footer {
+    background-color: white;
+}
